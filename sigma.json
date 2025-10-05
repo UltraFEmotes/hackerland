@@ -3,10 +3,12 @@
   "isAdmin": false,
   "isOwner": false,
   "banned": false,
+  "premium": false,
 },
 {
   "UserID": 1,
   "isAdmin": false,
   "isOwner": false,
   "banned": false,
+  "premium": false,
 },
