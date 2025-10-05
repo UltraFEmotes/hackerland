@@ -1,0 +1,12 @@
+{
+  "UserID": 0,
+  "isAdmin": false,
+  "isOwner": false,
+  "banned": false,
+},
+{
+  "UserID": 1,
+  "isAdmin": false,
+  "isOwner": false,
+  "banned": false,
+},
